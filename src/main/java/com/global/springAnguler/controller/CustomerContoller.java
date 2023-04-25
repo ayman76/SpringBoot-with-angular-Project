@@ -1,4 +1,4 @@
-package controller;
+package com.global.springAnguler.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.CrossOrigin;
